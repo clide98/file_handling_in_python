@@ -1,0 +1,6 @@
+This is the first line.
+This line has a number: 42
+Here's some more text.
+Line to be appended 1
+Line to be appended 2
+Line to be appended 3
